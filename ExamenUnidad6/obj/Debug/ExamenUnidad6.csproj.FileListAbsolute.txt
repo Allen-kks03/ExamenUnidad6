@@ -1,0 +1,7 @@
+C:\Users\suare\source\repos\ExamenUnidad6\bin\Debug\ExamenUnidad6.exe.config
+C:\Users\suare\source\repos\ExamenUnidad6\bin\Debug\ExamenUnidad6.exe
+C:\Users\suare\source\repos\ExamenUnidad6\bin\Debug\ExamenUnidad6.pdb
+C:\Users\suare\source\repos\ExamenUnidad6\obj\Debug\ExamenUnidad6.csproj.AssemblyReference.cache
+C:\Users\suare\source\repos\ExamenUnidad6\obj\Debug\ExamenUnidad6.csproj.CoreCompileInputs.cache
+C:\Users\suare\source\repos\ExamenUnidad6\obj\Debug\ExamenUnidad6.exe
+C:\Users\suare\source\repos\ExamenUnidad6\obj\Debug\ExamenUnidad6.pdb

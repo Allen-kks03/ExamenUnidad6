@@ -1,0 +1,12 @@
+Nombre del producto: Luces LED
+Descripcion: Tira de 20 metros contra agua
+Precio: $550
+Cantidad restante: 25
+
+
+Nombre del producto: Calculadora
+Descripcion: Calculadora cientifica marca Casio
+Precio: $1200
+Cantidad restante: 36
+
+
